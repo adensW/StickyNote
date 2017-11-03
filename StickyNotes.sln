@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickyNotes", "StickyNotes\StickyNotes.csproj", "{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{E3C73A3C-1111-4338-82B3-3AB6264D451E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{4F54FC4F-4D60-4C3D-819B-E1AE44E9F951}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.Debug|Any CPU.ActiveCfg = DVD-5
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.Debug|Any CPU.Build.0 = DVD-5
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.DVD-5|Any CPU.Build.0 = DVD-5
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.Release|Any CPU.ActiveCfg = SingleImage
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.Release|Any CPU.Build.0 = SingleImage
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{E3C73A3C-1111-4338-82B3-3AB6264D451E}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

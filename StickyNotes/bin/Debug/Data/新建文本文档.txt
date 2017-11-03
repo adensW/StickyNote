@@ -1,0 +1,42 @@
+未处理Newtonsoft.Json.JsonSerializationException
+  HResult=-2146233088
+  Message=Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[StickyNotes.Controller.NotesData]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'ID', line 1, position 6.
+  Source=Newtonsoft.Json
+  StackTrace:
+       在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+       在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+       在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+       在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+       在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+       在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+       在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+       在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+       在 StickyNotes.Controller.Json.JsonWrite(String Title, String Note) 位置 f:\VSWorkspace\StickyNotes\StickyNotes\Controller\Json.cs:行号 64
+       在 StickyNotes.DataIO.ConfirmBtn_Click(Object sender, EventArgs e) 位置 f:\VSWorkspace\StickyNotes\StickyNotes\DataIO.cs:行号 47
+       在 System.Windows.Forms.Control.OnClick(EventArgs e)
+       在 System.Windows.Forms.Button.OnClick(EventArgs e)
+       在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+       在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+       在 System.Windows.Forms.Control.WndProc(Message& m)
+       在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+       在 System.Windows.Forms.Button.WndProc(Message& m)
+       在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+       在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+       在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+       在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+       在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+       在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+       在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+       在 System.Windows.Forms.Application.Run(Form mainForm)
+       在 StickyNotes.Program.Main() 位置 f:\VSWorkspace\StickyNotes\StickyNotes\Program.cs:行号 19
+       在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+       在 System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+       在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+       在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+       在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+       在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+       在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+       在 System.Threading.ThreadHelper.ThreadStart()
+  InnerException: 

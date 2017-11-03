@@ -1,0 +1,15 @@
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Release\StickyNotes.exe.config
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Release\StickyNotes.exe
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Release\StickyNotes.pdb
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Release\Newtonsoft.Json.dll
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Release\Newtonsoft.Json.xml
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.Modify.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.DataIO.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.Manager.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.Start.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.NoteModel.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.Properties.Resources.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.csproj.GenerateResource.Cache
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.exe
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.pdb
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.csprojResolveAssemblyReference.cache

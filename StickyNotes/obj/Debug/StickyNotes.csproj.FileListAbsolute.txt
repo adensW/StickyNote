@@ -1,0 +1,13 @@
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Debug\StickyNotes.exe.config
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Debug\StickyNotes.exe
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Debug\StickyNotes.pdb
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Debug\Newtonsoft.Json.dll
+F:\VSWorkspace\StickyNotes\StickyNotes\bin\Debug\Newtonsoft.Json.xml
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.DataIO.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Manager.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Start.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.NoteModel.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Properties.Resources.resources
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.GenerateResource.Cache
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.exe
+F:\VSWorkspace\StickyNotes\StickyNotes\obj\Debug\StickyNotes.pdb
