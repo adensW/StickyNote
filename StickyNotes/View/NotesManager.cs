@@ -69,7 +69,7 @@ namespace StickyNotes.View
                     }
                     catch
                     {
-
+                        //
                     }
                    
                     n.Show();
