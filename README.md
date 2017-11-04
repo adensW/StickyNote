@@ -4,4 +4,4 @@
 
 希望毕业求职能用上。
 
-[下载地址](www.adens.cn)
+[下载地址](https://github.com/adensW/StickyNote/blob/dev/aden_StickyNotes/aden_StickyNotes/Express/SingleImage/DiskImages/DISK1/setup.exe?raw=true)
