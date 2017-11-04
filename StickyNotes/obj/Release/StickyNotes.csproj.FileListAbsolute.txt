@@ -12,4 +12,3 @@ F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.Properties.Resour
 F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.csproj.GenerateResource.Cache
 F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.exe
 F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.pdb
-F:\VSWorkspace\StickyNotes\StickyNotes\obj\Release\StickyNotes.csprojResolveAssemblyReference.cache
