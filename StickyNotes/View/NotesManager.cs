@@ -51,7 +51,15 @@ namespace StickyNotes.View
                     n.Location = new System.Drawing.Point(list[i].x,list[i].y);
                     n.Name = "Note"+list[i].ID;
                     n.Text = list[i].Title;
-                    n.Size = new Size(list[i].Width, list[i].Height);
+                    if (list[i].Height == 0 || list[i].Width == 0)
+                    {
+                        n.Size = new Size(290, 360);
+                    }
+                    else
+                    {
+                        n.Size = new Size(list[i].Width, list[i].Height);
+                    }
+                    
                     try
                     {
                         Color color = Color.FromArgb(list[i].ColorR, list[i].ColorG, list[i].ColorB);
