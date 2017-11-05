@@ -38,4 +38,5 @@
 铅笔图标可修改，垃圾桶图标删除
 
 
-[下载地址](https://github.com/adensW/StickyNote/blob/master/adensSticky/adensSticky/Express/SingleImage/DiskImages/DISK1/setup.exe)
+[下载地址1](https://github.com/adensW/StickyNote/blob/master/adensSticky/adensSticky/Express/SingleImage/DiskImages/DISK1/setup.exe)
+[下载地址2](http://www.adens.cn/Gadget/app/StickyNotes.exe)
